@@ -20,5 +20,5 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,c,html,javascript,spring,nodejs,react,mysql,git,stackoverflow,idea,eclipse,vscode,&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,c,html,javascript,spring,nodejs,react,mysql,tensorflow,git,stackoverflow,idea,eclipse,vscode,&titles=true" alt="skill icons" title="skill icons">
 </p>
