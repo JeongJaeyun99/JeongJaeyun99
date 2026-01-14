@@ -12,6 +12,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JeongJaeyun99&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
+
 <p align="center">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,py,c,html,javascript,spring,react,mysql,tensorflow,pytorch,git,stackoverflow,idea,eclipse,vscode,&titles=true" alt="skill icons" title="skill icons">
 </p>
